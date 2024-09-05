@@ -1,6 +1,0 @@
-[INFO ] 2024-07-28 21:24:52.379 [main] Log4jDemo - This is an informational message
-[ERROR] 2024-07-28 21:24:52.381 [main] Log4jDemo - This is an error message
-[FATAL] 2024-07-28 21:24:52.381 [main] Log4jDemo - This is a fatal message
-[INFO ] 2024-07-28 21:25:58.133 [main] Log4jDemo - This is an informational message
-[ERROR] 2024-07-28 21:25:58.135 [main] Log4jDemo - This is an error message
-[FATAL] 2024-07-28 21:25:58.136 [main] Log4jDemo - This is a fatal message
